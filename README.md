@@ -1,6 +1,8 @@
 Heres the code for you guys to have fun with but first i must warn you all i will NOT be reading comments I will NOT be reading Issues I will NOT being reading anything i will update this IF i feel like it DONT DARE EMAIL ME
 You guys feel free to do anything you like with it (i probably will forget to edit this so uh comment on the very rare chance i read it so i can re upload the code for yall)
 
+quick note i forgot to add THIS CODE DOES CREATE FILES why does it so it can save the note pad it should only create 1 file and if not hopfully ill realize that and fix it or read issues on the off chance i actually do (dookus is not HERE)
+
 #Requires AutoHotkey v2.0
 
 ; --- GUI Setup ---
