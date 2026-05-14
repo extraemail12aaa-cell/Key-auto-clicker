@@ -4,4 +4,4 @@
 
 ( Extra features ) you can change the MS hold time in between clicks if neccissary for your clicking but is unreccomended UNLESS you have to there is a 4th Notes tab for writing or testing the auto clicker NOTE this feature requires file creation and automatically does it just telling you incase you find a new file 
 
-( last notes ) there is an unlikely chance i will update this check commends issues or anything else unless i feel like it
+( last notes ) there is an unlikely chance i will update this check commends issues or anything else unless i feel like it but please comment if you liked it and like this as well so more people see it as i just wanted to post this so everyone can use it since originally it was for myself 
